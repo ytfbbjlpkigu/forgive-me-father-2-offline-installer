@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+In the year 202X, the world is "YAMI"...! To save the world, go to hell and kill all the demons. Yes, just like ordering a Frappuccino at a cool cafe!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,10 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | win9-10 | macOS 11.0 or later |
+| **Processor** | intel corei5 34700 | Intel Core i5 / Apple M1 |
+| **Graphics** | intel HD Graphic | Metal-capable GPU |
+| **Storage** | 500 MB available space | 500 MB available space |
 
 ---
 
